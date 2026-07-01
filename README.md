@@ -3,10 +3,10 @@
 Official implementation of:
 
 **"Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models"**  
-[Conference/Journal, Year]
+[Transactions on Machine Learning Research, June 2026]
 
-Paper: [Link to paper]
-Authors: [Author names]
+Paper: [[PDF](https://openreview.net/pdf?id=3y3mHAldp7)]
+Authors: [Faul Antoine, Xiao Zhou, Ossi Räisä, Mihaela van der Schaar, Cem Tekin]
 
 ---
 
